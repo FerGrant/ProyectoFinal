@@ -2,6 +2,7 @@
 Métodos Numéricos AD2018
 
 Esta es la lista de los métodos vistos en clase:
+
 [Método de la bisección](https://github.com/FerGrant/ProyectoFinal/tree/master/Biseccion)
 
 [Método de Convergencia y Divergencia](https://github.com/FerGrant/ProyectoFinal/tree/master/ConvergenciaDivergencia)
