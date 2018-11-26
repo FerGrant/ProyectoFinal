@@ -23,7 +23,7 @@ Métodos Numéricos AD2018
 
 [Método Newton Rhapson](https://github.com/FerGrant/ProyectoFinal/tree/master/NewtonRhapson)
 
-[Método de Newton No Lineal]
+[Método de Newton Rhapson No Lineal](https://github.com/FerGrant/ProyectoFinal/tree/master/NewtonNoLineal)
 
 [Operaciones con Matrices]
 
