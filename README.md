@@ -17,9 +17,9 @@ Métodos Numéricos AD2018
 
 [Métodos de Integración](https://github.com/FerGrant/ProyectoFinal/tree/master/Integracion)
 
-[Método de Lagrange]
+[Método de Lagrange](https://github.com/FerGrant/ProyectoFinal/tree/master/Lagrange)
 
-[Método Gráfico]
+[Método Gráfico](https://github.com/FerGrant/ProyectoFinal/tree/master/Grafico)
 
 [Método Newton Rhapson]
 
