@@ -22,7 +22,7 @@ for i  in range (10):
     x0 = x1
     itera += 1
     
-print("La raíz es %.5f"%(x1))
+print("La raÃ­z es %.5f"%(x1))
 print("Usando %i iteraciones"%(itera))
 
 plt.plot(xexe,x0array,x1array)
