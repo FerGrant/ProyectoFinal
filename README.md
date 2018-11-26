@@ -7,7 +7,7 @@ Métodos Numéricos AD2018
 
 [Método de EDO Euler](https://github.com/FerGrant/ProyectoFinal/tree/master/EDOEuler)
 
-[Método de Eliminación Gaussiana]
+[Método de Eliminación Gaussiana](https://github.com/FerGrant/ProyectoFinal/tree/master/EliminacionGaussiana)
 
 [Método de la Factorización LU]
 
