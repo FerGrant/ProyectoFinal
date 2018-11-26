@@ -21,7 +21,7 @@ Métodos Numéricos AD2018
 
 [Método Gráfico](https://github.com/FerGrant/ProyectoFinal/tree/master/Grafico)
 
-[Método Newton Rhapson]
+[Método Newton Rhapson](https://github.com/FerGrant/ProyectoFinal/tree/master/NewtonRhapson)
 
 [Método de Newton No Lineal]
 
