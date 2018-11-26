@@ -25,9 +25,9 @@ Métodos Numéricos AD2018
 
 [Método de Newton Rhapson No Lineal](https://github.com/FerGrant/ProyectoFinal/tree/master/NewtonNoLineal)
 
-[Operaciones con Matrices]
+[Operaciones con Matrices](https://github.com/FerGrant/ProyectoFinal/tree/master/OperacionesMatrices)
 
-[Método de Polinomio de Interpolación]
+[Método de Polinomio de Interpolación](https://github.com/FerGrant/ProyectoFinal/tree/master/PolinomioInterpolacion)
 
 [Método de Punto Fijo]
 
