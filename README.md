@@ -9,7 +9,7 @@ Métodos Numéricos AD2018
 
 [Método de Eliminación Gaussiana](https://github.com/FerGrant/ProyectoFinal/tree/master/EliminacionGaussiana)
 
-[Método de la Factorización LU]
+[Método de la Factorización LU](https://github.com/FerGrant/ProyectoFinal/tree/master/FactorizacionLU)
 
 [Método de la Falsa Posición]
 
