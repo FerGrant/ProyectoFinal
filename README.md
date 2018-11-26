@@ -31,4 +31,4 @@ Métodos Numéricos AD2018
 
 [Método de Punto Fijo](https://github.com/FerGrant/ProyectoFinal/tree/master/PuntoFijo)
 
-[Método de Regresión Polinomial(https://github.com/FerGrant/ProyectoFinal/tree/master/RegresionPolinomial)
+[Método de Regresión Polinomial](https://github.com/FerGrant/ProyectoFinal/tree/master/RegresionPolinomial)
