@@ -13,9 +13,9 @@ Métodos Numéricos AD2018
 
 [Método de la Falsa Posición](https://github.com/FerGrant/ProyectoFinal/tree/master/FalsaPosicion)
 
-[Método de Gauss-Seidel]
+[Método de Gauss-Seidel](https://github.com/FerGrant/ProyectoFinal/tree/master/Gauss-Seidel)
 
-[Métodos de Integración]
+[Métodos de Integración](https://github.com/FerGrant/ProyectoFinal/tree/master/Integracion)
 
 [Método de Lagrange]
 
