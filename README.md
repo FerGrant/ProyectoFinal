@@ -29,6 +29,6 @@ Métodos Numéricos AD2018
 
 [Método de Polinomio de Interpolación](https://github.com/FerGrant/ProyectoFinal/tree/master/PolinomioInterpolacion)
 
-[Método de Punto Fijo]
+[Método de Punto Fijo](https://github.com/FerGrant/ProyectoFinal/tree/master/PuntoFijo)
 
-[Método de Regresión Polinomial
+[Método de Regresión Polinomial(https://github.com/FerGrant/ProyectoFinal/tree/master/RegresionPolinomial)
